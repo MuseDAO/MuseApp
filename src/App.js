@@ -25,7 +25,7 @@ function App() {
         <p>Here are our TOP Content Creators!</p>
       </h1>
         <div class="team-info">
-            <img src="img-1.jpg" alt=""/>
+            <img src="img-1.JPG" alt=""/>
             <h4>Pete Myers</h4>
              <p>Recording Artist/Producer</p>
         </div>
